@@ -4,11 +4,12 @@ title = "Publicar em mais de um repositorio git"
 date = "2022-10-04"
 description = "Um guia de como publicar em mais de um repositorio git"
 tags = [
-    "cmd",
+    "git",
     "Windows",
+    "Linux",
 ]
 categories = [
-    "Microsoft",
+    "Git",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
